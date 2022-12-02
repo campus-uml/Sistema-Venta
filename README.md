@@ -7,6 +7,5 @@ Taina del Rosario Ortez Carrasco
 Nathaly Margarita Rugama Beltran
  
  Usuario
- [Cecilia Maribel Ortez Cabrera]
- (https://github.com/CeciliaMaribelOrtez)
+ [Cecilia Maribel Ortez Cabrera](https://github.com/CeciliaMaribelOrtez)
 
